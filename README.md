@@ -2,7 +2,7 @@ YO WHAT'S UP?
 
 **This is me sometimes:**
 
-<img src="https://github.com/rubab2000/rubab2000/blob/main/%D8%A3%D9%86%D8%A7.jpeg" alt="Alt Text" width="200"/>
+<img src="https://github.com/rubab2000/rubab2000/blob/main/%D8%A3%D9%86%D8%A7.jpeg" alt="Alt Text" width="250"/>
 
 
 <h1 align="center">Hi 👋, I'm RUBAB</h1>
