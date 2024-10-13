@@ -75,3 +75,8 @@ YO WHAT'S UP?
   </a> 
 </p>
 
+
+## GitHub Profile 
+Link to the uploaded image [here](https://github.com/rub4b/rub4b/blob/main/%D8%A3%D9%86%D8%A7.jpeg)
+You can view my personalized GitHub profile [here](https://github.com/rub4b)
+
