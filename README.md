@@ -5,7 +5,8 @@ YO WHAT'S UP?
 <img src="https://github.com/rubab2000/rubab2000/blob/main/%D8%A3%D9%86%D8%A7.jpeg" alt="Alt Text" width="250"/>
 
 
-<h1 align="center">Hi 👋, I'm RUBAB</h1>
+<h1 align="center">Hi 👋, I'm RUBAB, a student in the Software Maintenance and Evolution course</h1>
+<h3 align="center">I expect to learn a lot about modern software maintenance practices and how to work with legacy systems</h3>
 <h3 align="center">A passionate explorer/developer</h3>
 
 
