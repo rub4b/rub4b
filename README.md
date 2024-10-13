@@ -2,7 +2,7 @@ YO WHAT'S UP?
 
 **This is me sometimes:**
 
-<img src="https://github.com/rubab2000/rubab2000/blob/main/%D8%A3%D9%86%D8%A7.jpeg" alt="Alt Text" width="250"/>
+<img src="https://github.com/SoftwareMaintenanceEvolution/tutorial-1-rubab2000/blob/profile-upload/%D8%A3%D9%86%D8%A7.jpeg" alt="Alt Text" width="250"/>
 
 
 <h1 align="center">Hi 👋, I'm RUBAB, a student in the Software Maintenance and Evolution course</h1>
@@ -77,6 +77,6 @@ YO WHAT'S UP?
 
 
 ## GitHub Profile 
-Link to the uploaded image [here](https://github.com/rub4b/rub4b/blob/main/%D8%A3%D9%86%D8%A7.jpeg)
+Link to the uploaded image [here](https://github.com/SoftwareMaintenanceEvolution/tutorial-1-rubab2000/blob/profile-upload/%D8%A3%D9%86%D8%A7.jpeg)
 You can view my personalized GitHub profile [here](https://github.com/rub4b)
 
