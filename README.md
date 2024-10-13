@@ -7,7 +7,7 @@ YO WHAT'S UP?
 
 <h1 align="center">Hi 👋, I'm RUBAB, a student in the Software Maintenance and Evolution course</h1>
 <h3 align="center">I expect to learn a lot about modern software maintenance practices and how to work with legacy systems</h3>
-<h3 align="center">A passionate explorer/developer</h3>
+
 
 
 
