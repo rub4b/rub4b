@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/SoftwareMaintenanceEvolution/tutorial-1-rubab2000/blob/profile-upload/%D8%A3%D9%86%D8%A7.jpeg" alt="Al Rubab Ibn Yeahyea" width="140" style="border-radius:50%;"/>
 
 # Al Rubab Ibn Yeahyea
 
