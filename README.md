@@ -1,5 +1,7 @@
 # Hi, I'm Rubab
 
+<img src="https://github.com/SoftwareMaintenanceEvolution/tutorial-1-rubab2000/blob/profile-upload/%D8%A3%D9%86%D8%A7.jpeg" alt="Alt Text" width="250"/>
+
 Software engineer who ended up in IoT because I wanted my code to touch the real world. Now it does. Sometimes it touches it a little too hard, which is why the robots have a soft stop button and I have a healthy respect for it.
 
 Fun fact: my mouth can't keep up with my brain. My keyboard does a better job.
