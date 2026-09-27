@@ -1,6 +1,20 @@
-# Al Rubab Ibn Yeahyea
+# Hi, I'm Rubab
 
-Software engineer focused on IoT and embedded systems, finishing a CS degree at Universiti Malaya. I spent the last several months at Averis building sensor systems and programming industrial robots, and I build embedded/robotics side projects on my own time.
+Software engineer who ended up in IoT because I wanted my code to touch the real world. Now it does. Sometimes it touches it a little too hard, which is why the robots have a soft stop button and I have a healthy respect for it.
+
+Fun fact: my mouth can't keep up with my brain. My keyboard does a better job.
+
+## Stuff I've built
+
+**A robot that draws cars.** I took an Illustrator blueprint, turned it into KRL, and got a KUKA arm to draw a full automotive technical drawing with a pen. It has better line control than I do. We don't talk about it.
+
+**A CT scan to 3D skull pipeline.** Takes a pile of DICOM slices, builds a 3D mesh, and lines up two separate scans using landmark alignment and ICP. 100+ unit tests, because medical data deserves more trust than "it looked right on my screen."
+
+**A satellite telemetry pipeline.** Encrypted MQTT feeding Grafana and Graphite, all running in Docker on a Raspberry Pi CM5. Yes, the Pi is doing a lot. It's fine. Probably.
+
+**A smart office hub.** ESP32 and a 24GHz mmWave sensor hooked into Home Assistant. The AC turns off when the room is empty, so nobody has to be the person who walks back in to switch it off.
+
+**Aquametic.** Smart irrigation dashboard. A Pico 2W streams water levels over MQTT into MongoDB, so the plants survive even when I forget they exist.
 
 ## What I work with
 
@@ -10,27 +24,25 @@ Software engineer focused on IoT and embedded systems, finishing a CS degree at 
 
 **Robotics:** KUKA iiQKA.OS2, KRL, EtherNet/IP, Modbus TCP
 
-**Data & ML:** scikit-learn, TensorFlow, NumPy/Pandas, Open3D, PyVista
+**Data, ML & 3D:** scikit-learn, TensorFlow, NumPy, Pandas, Open3D, PyVista
 
-**Backend & infra:** Node.js, Django, Docker, MySQL/PostgreSQL/MongoDB, AWS, Grafana
+**Backend & infra:** Node.js, Django, Docker, MySQL, PostgreSQL, MongoDB, AWS, Grafana
 
-## Some things I've built
+**Also:** SolidWorks, for when the problem needs a bracket and not a function
 
-- **3D volumetric reconstruction pipeline** — converts DICOM CT scans into 3D meshes and rigidly registers two independent scans using landmark alignment + multiscale ICP, with 100+ tests on synthetic fixtures.
-- **KUKA drawing system** — a vector-to-KRL pipeline that gets an industrial robot arm to reproduce detailed technical line drawings using chained arc interpolation.
-- **Satellite telemetry pipeline** — containerized MQTT/Grafana/Graphite stack running on a Raspberry Pi CM5 for real-time sensor visualization.
-- **Connectivity NODE** — an STM32 + Iridium SBD satellite comms module with custom serialization to cut per-message transmission cost.
-- **Smart office hub** — ESP32 + mmWave presence detection wired into Home Assistant to auto-control AC based on occupancy.
-- **Aquametic** — smart irrigation dashboard syncing live sensor data over MQTT to MongoDB.
+## Where I've been
 
-## Experience
+**Averis Sdn. Bhd.**, IoT Research Intern (Feb to Aug 2026)
+Robot programming, battery analysis across a multi-node sensor deployment, Grafana dashboards, and 3D-printed fixtures.
 
-**Averis Sdn. Bhd.** — IoT Research Intern, Feb–Aug 2026
-Robot arm programming, IoT sensor battery analysis, Grafana dashboards, 3D-printed fixtures.
+**Shesh-Mesh**, Developer (Jun to Dec 2025)
+Full-stack features for a fashion e-commerce MVP, plus MySQL schema tuning so inventory didn't fall over on busy days.
 
-**Shesh-Mesh** — Developer, Jun–Dec 2025
-Full-stack e-commerce MVP features, MySQL schema optimization for high-throughput inventory.
+**Side quests:** Bronze at UGiFEST 2025, finalist at Delulu Hackathon 2025 (the name was not a reflection of our odds), CCNA ITN, Scrum Master certified.
 
-## Elsewhere
+## Say hi
 
-nerdyrumble29@gmail.com · [linkedin.com/in/rubab2000](https://linkedin.com/in/rubab2000)
+📫 nerdyrumble29@gmail.com
+🔗 [linkedin.com/in/rubab2000](https://linkedin.com/in/rubab2000)
+
+Always happy to talk embedded systems, robots, or a business idea you're weirdly excited about.
