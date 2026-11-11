@@ -35,7 +35,7 @@ Fun fact: my mouth can't keep up with my brain. My keyboard does a better job.
 **Averis Sdn. Bhd.**, IoT Research Intern (Feb to Aug 2026)
 Robot programming, battery analysis across a multi-node sensor deployment, Grafana dashboards, and 3D-printed fixtures.
 
-**Shesh-Mesh**, Developer (Jun to Dec 2025)
+**Shesh-Mesh**, Developer (Jun 2024 to Jul 2025)
 Full-stack features for a fashion e-commerce MVP, plus MySQL schema tuning so inventory didn't fall over on busy days.
 
 **Side quests:** Bronze at UGiFEST 2025, finalist at Delulu Hackathon 2025 (the name was not a reflection of our odds), CCNA ITN, Scrum Master certified.
